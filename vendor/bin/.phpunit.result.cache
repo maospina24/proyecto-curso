@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"ClaseTest::testGetNombre":0.002,"ClaseTest::testGetPonderacion":0,"ClaseTest::testGetTipo":0,"ClaseTest::testGetDescripcion":0,"ExamenTest::testGetNombre":0,"ExamenTest::testGetTipoExamen":0,"ExamenTest::testGetTipo":0,"ExamenTest::testGetDescripcion":0}}
