@@ -22,7 +22,7 @@ Aplicación de consola desarrollada en PHP. Permite buscar clases y exámenes po
 1. **Clonar repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-php.git
+git clone https://github.com/maospina24/proyecto-curso.git
 cd proyecto-curso
 ```
 
